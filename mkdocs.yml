@@ -1,5 +1,5 @@
 # test/mkdocs.yml
 nav:
-  - Page 2: docs/2.md
-  - Test Page: docs/test.md
+  - Home: docs/index.md
+  - K8s Plan: docs/technical-documentation.md
 
