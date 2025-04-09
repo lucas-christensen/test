@@ -1,5 +1,5 @@
 # test/mkdocs.yml
 nav:
-  - Page 2: 2.md
-  - Test Page: test.md
+  - Page 2: docs/2.md
+  - Test Page: docs/test.md
 
